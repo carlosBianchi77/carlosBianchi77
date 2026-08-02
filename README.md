@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Carlos Bianchi
 
-<!--
-**carlosBianchi77/carlosBianchi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web Full Stack en formación.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo y desarrollando proyectos con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Git y GitHub
+
+Me interesa crear sitios web modernos, responsivos y funcionales, y seguir creciendo como desarrollador.
+
+## 🚀 Proyectos
+
+### 🍔 Prime Burger
+
+Sitio web moderno y responsive para una hamburguesería.
+
+🔗 [Ver demo](https://carlosbianchi77.github.io/proyecto-final-prime-burguer/)
+
+💻 [Ver código](https://github.com/carlosBianchi77/proyecto-final-prime-burguer)
+
+## 📫 Contacto
+
+- GitHub: [@carlosBianchi77](https://github.com/carlosBianchi77)
+- Email: bianchic013@gmail.com
