@@ -4,7 +4,7 @@
 
 Soy desarrollador web y me interesa crear aplicaciones e interfaces modernas, responsivas y funcionales, aplicando buenas prácticas y código reutilizable.
 
-Actualmente estoy finalizando la **Diplomatura Web Full Stack en ICARO**, transitando la etapa de Backend con Node.js y Express. También estoy cursando una Diplomatura en Data Analytics.
+Actualmente estoy finalizando la **Diplomatura Web Full Stack en ICARO**, transitando la etapa de Backend con Node.js y Express. También estoy cursando una Diplomatura en Análisis de Datos.
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -20,6 +20,7 @@ Actualmente estoy finalizando la **Diplomatura Web Full Stack en ICARO**, transi
 ## 🚀 Proyectos destacados
 
 ### 🛒 TechStore
+
 E-commerce desarrollado con React, JavaScript y Zustand, con componentes reutilizables y consumo de APIs.
 
 🔗 [Ver demo](https://tech-store-lake-alpha.vercel.app/)
@@ -27,11 +28,15 @@ E-commerce desarrollado con React, JavaScript y Zustand, con componentes reutili
 💻 [Ver código](https://github.com/carlosBianchi77/TechStore)
 
 ### 💰 Finanzas Claras
+
 Aplicación de finanzas personales desarrollada con React y Capacitor.
 
 🔗 [Ver demo](https://finanzas-claras-eight.vercel.app/)
 
+💻 [Ver código](https://github.com/carlosBianchi77/Finanzas-Claras)
+
 ### 🏦 NovaBank
+
 Dashboard bancario interactivo desarrollado con JavaScript, con funcionalidades y modos claro y oscuro.
 
 🔗 [Ver demo](https://carlosbianchi77.github.io/NovaBank/)
@@ -41,7 +46,7 @@ Dashboard bancario interactivo desarrollado con JavaScript, con funcionalidades 
 ## 🎓 Formación
 
 - Diplomatura Web Full Stack – ICARO (en etapa final).
-- Diplomatura en Data Analytics – En curso.
+- Diplomatura en Análisis de Datos – En curso.
 
 ## 🌐 Portfolio
 
