@@ -29,8 +29,14 @@ E-commerce desarrollado con React, JavaScript y Zustand, con componentes reutili
 ### 💰 Finanzas Claras
 Aplicación de finanzas personales desarrollada con React y Capacitor.
 
+🔗 [Ver demo](https://finanzas-claras-eight.vercel.app/)
+
 ### 🏦 NovaBank
 Dashboard bancario interactivo desarrollado con JavaScript, con funcionalidades y modos claro y oscuro.
+
+🔗 [Ver demo](https://carlosbianchi77.github.io/NovaBank/)
+
+💻 [Ver código](https://github.com/carlosBianchi77/NovaBank)
 
 ## 🎓 Formación
 
